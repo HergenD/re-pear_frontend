@@ -12,6 +12,6 @@
   "license": "MIT",
   "homepage": "https://github.com/n-esty/re-pear_frontend",
   "dependencies": {
-    "phaser": "^3.22.0"
+    "phaser": "^3.55.2"
   }
 }
